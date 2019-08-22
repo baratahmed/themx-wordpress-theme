@@ -1,0 +1,973 @@
+@media screen and (max-width: 1760px){
+	.s2-txt {
+	    padding: 68px 54px 0px;
+	}
+	.single_service_item_same {
+	    padding: 63px 29px;
+	}
+
+}
+@media screen and (max-width: 1470px){
+	.s2-content {
+	    margin-bottom: 25px;
+	}
+}
+@media screen and (max-width: 1366px){
+	/*=================================*/
+	/*  Onepage  Home
+	/*=================================*/
+	.about_studio_img img {
+	    height: 400px;
+	}
+	.tab-pane.tab_pane_onepage {
+	    padding: 0px 15px 0px 20px;
+	}
+	.tab_button.tab_button_onepage {
+    margin-top: 71px;
+    margin-bottom: 32px;
+	}
+	.tab_button.tab_button_onepage {
+     margin-left: 0; 
+}
+
+	/*=================================*/
+	/*  Default Home
+	/*=================================*/ 
+	.features_list_d_home {
+	    margin-left: 30px;
+	}
+	.single_service_De_h {
+	    padding-right: 15px;
+	}
+	/*.our_service_d_img img {
+	    height: 488px;
+	}*/
+	/*=================================*/
+	/*  Digital Home
+	/*=================================*/ 
+	.left_image_get_in img {
+	    width: 100%;
+	}
+	.right_skill_get_in_text {
+	    background-color: #f9f9f9;
+	    padding: 52px 15px 0 40px;
+	}
+	.right_skill_get_in_text p {
+	    font-size: 14px;
+	    line-height: 26px;
+	}
+	.MESSAGE_uS {
+	    padding: 7px 20px !important;
+	}
+	.main_footer_section .container-fluid {
+    	padding: 0px 15px;
+	}
+	/*=================================*/
+	/*  Creative Home
+	/*=================================*/ 
+	.features_c_h_img img {
+	    height: 355px;
+	}
+	.features_list {
+	    margin-top: 95px;
+	}
+	.hello_line {
+	    width: 78%;
+	    top: 23.5%;
+	    left: 11%;
+	}
+	/*=================================*/
+	/*  Minimal Home
+	/*=================================*/ 
+	.mnimal_skill_photo img {
+	    height: 540px;
+	}
+	.mnimal_service_itemS {
+	    padding: 18px 15px 0px 30px;
+	    height: 540px;
+	}
+	.portfolio-edu-text {
+	    margin-top: 0px;
+	}
+	.single_service_item_same {
+	    padding: 29px 40px;
+	}
+	.mnimal_skill_photo_all {
+	    padding: 50px 45px 0px 65px;
+	    height: 474px;
+	}
+	.mnimal_skill_photo_left {
+	    margin-top: 30px;
+	}
+	/*=================================*/
+	/*  Resume Home
+	/*=================================*/ 
+	.features_list_r_home {
+	    margin-left: 10px;
+	}
+	.single_service_De_h {
+	    margin-bottom: 40px;
+	    padding-right: 15px;
+	}
+	.service_ion_service_r_Home {
+	    margin-top: 75px;
+	}
+	.our_service_re_img img {
+	    height: 425px;
+	}
+	/*=================================*/
+	/*  Start Up Home
+	/*=================================*/
+	.HELLO_start_up_content {
+	    margin-left: 45px;
+	}
+	.HELLO_start_up_content_top {
+	    margin-top: 25px;
+	}
+	.HELLO_start_up_content_top p {
+	    margin-right: 30px;
+	    margin-top: 20px;
+	}
+	.HELLO_start_l {
+	    padding-left: 55px;
+	}
+	/*=================================*/
+	/*  About Us page
+	/*=================================*/
+	.s2-txt {
+	    padding: 45px 58px 10px;
+	}
+	.skill_left_about_us {
+	    padding: 45px 58px 47px 87px;
+	    background-color: #fbfbfb;
+	}
+	.s2-content {
+	    margin-bottom: 33px;
+	}
+	/*=================================*/
+	/*  Blog page
+	/*=================================*/
+	.B_page_four .container-fluid {
+	    padding-left: 60px;
+	    padding-right: 60px;
+	}
+
+
+
+}/*1366pX*/
+
+
+@media screen and (max-width: 1200px){
+	/*=================================*/
+	/*  Onepage Home page
+	/*=================================*/
+	.team_member_info {
+	    margin-bottom: 45px;
+	}
+	/*=================================*/
+	/*  Portfolio single page
+	/*=================================*/
+	.content-Portfolio_2-detail.has-sidebar_portfolio_2 .product-gallery_portfolio_2 #bx-pager a {
+	    max-width: 282px;
+	}
+	/*=================================*/
+	/*  Service page
+	/*=================================*/
+	.tab_button_service li {
+	    margin-left: 14px;
+	    width: 173px;
+	}
+	/*=================================*/
+	/*  About Me page
+	/*=================================*/
+	.border-overlay {
+	    right: -35px;
+	    bottom: -26px;
+	}
+	.hero-img {
+	    width: 385px;
+	}
+	.vertical-skills_smith li {
+	    margin-right: 55px;
+	}
+	/*=================================*/
+	/*  architecture Home page
+	/*=================================*/
+	.left_about_architecture {
+	    padding-left: 0;
+	}
+	/*=================================*/
+	/*  Minimal Home page
+	/*=================================*/
+	.mnimal_service_itemS {
+	    padding: 0;
+	}
+	/*=================================*/
+	/*  Resume Home page
+	/*=================================*/
+	.skill_re_left_ img {
+	    width: 100%;
+	    height: 400px;
+	}
+	.single_service_De_h {
+	    margin-bottom: 15px;
+	}
+}/*1200px*/
+
+@media screen and (max-width: 992px){
+	/*=================================*/
+	/*  Portfolio single page
+	/*=================================*/
+	.content-Portfolio_2-detail.has-sidebar_portfolio_2 .product-gallery_portfolio_2 #bx-pager a {
+	    max-width: 209px;
+	}
+}/*992px*/
+
+@media screen and (max-width: 991px){
+	/*=================================*/
+	/*  All Secttion padding 
+	/*=================================*/
+	.POrtfolio_2_single_area {
+	    padding: 100px 0px 95px;
+	}
+	.p_folio_one {
+	    padding: 96px 0 100px;
+	}
+	.easy_to_start_Default_h {
+	    padding: 86px 0px 57px;
+	}
+	.about_us_section_themex {
+   		padding: 93px 0px 94px;
+	}
+	.Blog_standard_grid_page_blog {
+	    padding: 100px 0px 100px;
+	}
+	.Blog_single_p_page_blog {
+	    padding: 100px 0px 105px;
+	}
+	.service_2_focus_project {
+	    padding: 94px 0px 85px;
+	}
+	.service_2_process_ {
+    	padding: 94px 0px 93px;
+	}
+	.service_page_twO {
+	    padding: 94px 0px 70px;
+	}
+	.latest_blog_default_h {
+	    padding: 86px 0px 59px;
+	}
+	.seceond_main_footer_section {
+	    padding: 94px 0px 88px;
+	}
+	.service_section_digital {
+	    padding: 99px 0px 100px;
+	}
+	.Counter_section_digital_home {
+	    padding: 102px 0px 56px;
+	}
+	.testimomnial_section_start_up {
+	    padding: 91px 0px 100px;
+	}
+	.service_page_twO.pricing_table_digital {
+	    padding: 102px 0px 70px;
+	}
+	.latest_news_digital_home {
+	    padding: 91px 0 60px;
+	}
+	.contact_padding_toP {
+	    padding: 98px 0px 60px;
+	}
+	.team_sEction_CreativeHome {
+	    padding: 97px 0px 70px;
+	}
+	.Blog_standard_grid_page_blog.B_page_two {
+	    padding: 100px 0px 100px;
+	}
+	.Blog_standard_grid_page_blog.B_page_three {
+	    padding: 60px 0px 100px;
+	}
+	.Blog_standard_grid_page_blog.B_page_four {
+	    padding: 100px 0px 100px;
+	}
+	.abou_2_weMake_web {
+	    padding: 100px 0px 88px;
+	}
+	.our_skill_section_TAb {
+	    padding-bottom: 78px;
+	}
+	.we_are_diferent_about_bg {
+	    padding: 96px 0px 77px;
+	}
+	.we_are_diferent_about_me2 {
+    	padding-bottom: 86px;
+	}
+	.service_page_three_tab {
+	    padding: 93px 0px 0px;
+	}
+	.service_three_blog_type {
+	    padding: 100px 0px 13px;
+	}
+	.welcome_themeX_about_architecture {
+	    padding: 100px 0px 100px;
+	}
+	.prothoma_about_us_CreativeHome {
+	    padding: 98px 0px 64px;
+	}
+	.portfolio_work_do_CreativeHome {
+	    padding: 98px 0px 0px;
+	}
+	.service_sEction_CreativeHome {
+	    padding: 98px 0px 70px;
+	}
+	.chooseUs_sEction_CreativeHome {
+	    padding: 98px 0px 87px;
+	}
+	.recent_post_section_CreativeHome {
+	    padding: 98px 0px 64px;
+	}
+	.what_we_do_section_m_home {
+	    padding: 93px 0px 65px;
+	}
+	.minimal_home_portfolio_section {
+	    padding: 95px 0px 100px;
+	}
+	.minimal_home_portfolio_section {
+	    padding: 91px 0px 100px;
+	}
+	.testimonial_minimal_home {
+	    padding: 100px 0px 93px;
+	}
+	.blog_section_miniMal {
+	    padding: 91px 0px 100px;
+	}
+	.skill_section_area_resume_home {
+	    padding: 100px 0px 100px;
+	}
+	.portfolio2_h_default.portfolio2_h_resume {
+	    padding: 91px 0px 0px;
+	}
+	.years_exprience_section_r_home {
+	    padding: 91px 0px 58px;
+	}
+	.blog_section_resume_area {
+	    padding: 93px 0px 70px;
+	}
+	.right_contact_resume_H {
+	    padding: 60px 0px 100px;
+	    margin-top: 40px;
+	}
+	.latest_work_section_s_up {
+	    padding: 80px 0px 100px;
+	}
+	.meet_our_team_s_up {
+	    padding: 80px 0px 87px;
+	}
+	.blog_section_s_up {
+	    padding: 80px 0px 101px;
+	}
+	.shop_page_productT {
+	    padding: 100px 0px 48px;
+	}
+	.Shop_CheckOut_area {
+	    padding: 96px 0px 37px;
+	}
+	.Shop_cart_page {
+	    padding: 81px 0px 99px;
+	}
+	.shop_single_quickstart {
+	    padding: 100px 0px 48px;
+	}
+	.about_studio_section_area {
+	    padding: 93px 0px 0px;
+	}
+	.team_section_onepage {
+	    padding: 91px 0px 70px;
+	}
+	.our_project_onepage {
+	    padding: 95px 0px 100px;
+	}
+	.news_blog_section {
+	    padding: 93px 0px 69px;
+	}
+	/*=================================*/
+	/*  About us Page 
+	/*=================================*/
+	.section_themex_right {
+	    margin-top: 5%;
+	}
+	.border-overlay {
+	    right: 309px; 
+	    bottom: -26px; 
+	}
+	.weMake_web_Content {
+	    padding-left: 0;
+	    margin-top: 50px;
+	}
+	.about_me2_d_Img {
+	    width: 524px;
+	    margin: 30px auto 0;
+	}
+	.about_me2_d_cOntent {
+	    text-align: center;
+	}
+	/*=================================*/
+	/*  Digital Home
+	/*=================================*/
+	.get_in_tuch_skill .padding_left {
+	    padding: 0;
+	    padding-left: 15px;
+	}
+	.MESSAGE_uS {
+	    margin-top: 25px !important;
+	}
+	/*=================================*/
+	/*  Default Home
+	/*=================================*/
+	.portfolio2_h_default {
+	    padding: 86px 0px 0px;
+	}
+	.our_service_d_img {
+	    max-width: 490px;
+	    margin: 40px auto 0;
+	}
+	.single_blog_d_content h3 a {
+	    font-size: 20px;
+	}
+	.single_demo_easY i {
+    	margin-left: -10px;
+	}
+	.content_testimonial_h_defaul {
+    	padding-left: 290px;
+	}
+	.footer_widget_seceond {
+	    max-width: 490px;
+	    margin-bottom: 40px;
+	}
+	/*=================================*/
+	/*  architecture Home
+	/*=================================*/
+	.about_architect_img {
+	    margin: 0 auto;
+	}
+	/*=================================*/
+	/*  Creative Home
+	/*=================================*/
+	.single_footer_widget_f3 {
+	    margin-top: 40px;
+	}
+	.hello_line {
+	    display: none;
+	}
+	.features_c_h_img {
+	    max-width: 490px;
+	    margin: 0px auto 0px;
+	}
+	.single_idea_C_h h4:after{display: none;}
+	.single_idea_C_h h4 {
+	    padding-bottom: 0px;
+	}
+	.features_list {
+    	padding-bottom: 100px;
+	}
+	.single_idea_C_h {
+	    margin-top: 30px;
+	}
+	.features_list {
+	    margin-top: 40px;
+	}
+	.chooseUs_sEction_img {
+	    margin-top: 78px;
+	}
+	/*=================================*/
+	/*  Minimal Home 
+	/*=================================*/
+	.mnimal_skill_photo_right {
+	    max-width: 490px;
+	    margin: 30px auto 0px;
+	}
+	.mnimal_skill_photo_right {
+	    margin-top: 100px;
+	}
+	.mnimal_skill_photo_right.mnimal_skill_photo_mt{
+		margin-top: 0px;
+	}
+	.mnimal_service_itemS {
+	    padding: 75px 15px 0px 30px;
+	}
+	/*=================================*/
+	/*  Resume Home page
+	/*=================================*/
+	.skill_re_left_, 
+	.single_idea_C_h {
+	    max-width: 490px;
+	    margin: 30px auto 0px;
+	}
+	.skill_re_right_ {
+	    margin-top: 60px;
+	}
+	.skill_re_right_bottom {
+	    margin-left: 0;
+	}
+	.our_service_re_img {
+	    max-width: 490px;
+	    margin: 30px auto 100px;
+	}
+	.timeline {
+	    margin-top: 140px;
+	}
+	/*=================================*/
+	/*  Start Up Home page
+	/*=================================*/
+	.HELLO_start_up_img img {
+	    height: 380px;
+	    margin-top: 168px;
+	}
+	/*=================================*/
+	/*  Onepage Home page
+	/*=================================*/
+	.single_member_team {
+	    margin-bottom: 0px;
+
+	}
+	.customer_says {
+	    padding: 75px 0 72px;
+	}
+	.single_member_team {
+	    margin-top: 0px;
+	}
+	/*=================================*/
+	/*  Blog page
+	/*=================================*/
+	.blog_right_sidebaR {
+	    max-width: 370px;
+	    margin: 0 auto;
+	}
+	.msg_form {
+    	margin-bottom: 40px;
+	}
+	.blog_standard_grid_item,
+	.blog_standard_item {
+	    padding-right: 0px;
+	}
+	.blog_three_pd {
+	     padding-right: 0px; 
+	}
+	.b4_single_blog_item {
+	    max-width: 600px;
+	    margin: 0 auto 40px;
+	}
+	/*=================================*/
+	/*  Service page
+	/*=================================*/
+	.tab_button_service li {
+	    width: 129px;
+	    height: 140px;
+	}
+	.tab_button_service li a {
+	    font-size: 11px;
+	}
+	.tab_button_service li p i {
+	    font-size: 35px;
+	}
+	.tab-pane img {
+	    width: 100%;
+	    height: 400px;
+	}
+	.tab_text_ser {
+	    margin-top: 30px;
+	}
+	.media-wrapper video {
+	    width: 100%;
+	    margin-top: 50px;
+	}
+	.footer_widget_single {
+	    margin-bottom: 40px;
+	}
+	.pd_left_15 {
+	    padding-left: 0;
+	}
+	.three_blog_type_single_content {
+	    margin-bottom: 30px;
+	}	
+	/*=================================*/
+	/*  Home Digital
+	/*=================================*/
+	.left_image_get_in, 
+	.middle_skill_get_in, 
+	.right_skill_get_in_text {
+	    margin-bottom: 30px;
+	}
+	/*=================================*/
+	/*  Contact Page
+	/*=================================*/
+	.address_form_themx {
+	    margin-bottom: 40px;
+	}
+	/*=================================*/
+	/*  About Page
+	/*=================================*/
+	.p-title {
+    	margin-top: 30px;
+	}
+	.skill_left_about_us {
+	    margin-bottom: 30px;
+	}
+	/*=================================*/
+	/*  Shop Page
+	/*=================================*/
+	.shop-cart .table {
+	    max-width: none;
+	    width: 800px !important;
+	}
+	.shop-cart {
+	    overflow-x: scroll;
+	}
+	.cupon_section {
+	    margin-top: 30px;
+	}
+
+}/*991px*/
+
+
+@media screen and (max-width: 768px){
+	/*=================================*/
+	/*  Onepage Home
+	/*=================================*/
+	.about_studio_img img {
+	    margin-top: 40px;
+	}
+	.single_member_team, .team_member_info {
+	    max-width: 390px;
+	    margin: 0 auto 30px;
+	}
+	.single_blog_onepage,
+	.single-pricing {
+	    max-width: 390px;
+	    margin: 0 auto 30px;
+	}
+	.video_title_name {
+	    top: 36%;
+	    font-size: 15px;
+	}
+		
+	/*=================================*/
+	/*  Digital Home
+	/*=================================*/
+	.get_in_tuch_skill {
+	    max-width: 490px;
+	    margin: 0 auto;
+	}
+	.left_image_get_in img {
+	    width: 100%;
+	    height: 265px;
+	}
+	.middle_skill_get_in {
+    	padding: 0;
+	}
+	.single_service_digitAl {
+	    max-width: 370px;
+	    margin: 0 auto 30px;
+	}
+	/*=================================*/
+	/*  Default Home
+	/*=================================*/
+	.single_demo_easY,
+	.single_service_De_h,
+	.single_blog_d_fault,
+	.footer_widget_seceond,
+	.single_blog_a_fault,
+	.single_footer_widget_f3,
+	.single_service_C_Home,
+	.single_team_s_C_Home,
+	.single_recent_post_C_H,
+	.w_we_do_single_m,
+	.single_blog_r_sume,
+	.n-box {
+	    max-width: 490px;
+	    margin: 0 auto 30px;
+	}
+	.single_minimal_blOg{
+
+		max-width: 390px;
+	    margin: 40px auto 0;
+	}
+	.single_team_s_C_Home {
+	    max-width: 390px;
+	    margin: 0 auto 30px;
+	}
+	.c_column_digital {
+	    max-width: 490px;
+	    margin: 0 auto 40px;
+	}
+	.single_service_De_h {
+	    text-align: center;
+	}
+	.single_demo_easY h3 {
+	    text-align: center;
+	}
+	.single_demo_easY i {
+	    margin-left: 0;
+	}
+	.number_item_default_h {
+	    margin-bottom: 60px;
+	}
+	.Counter_section_default_h {
+	    padding: 102px 0 40px;
+	}
+	.pull-right_shop_Cart {
+	    margin-top: 20px;
+	    margin-bottom: 30px;
+	    text-align: center;
+	}
+	.newsneller_subscribe {
+	    margin-bottom: 25px;
+	    text-align: center;
+	}
+	.seceond_main_footer_section {
+	    padding: 94px 0px 48px;
+	}
+	/*=================================*/
+	/*  Creative Home 
+	/*=================================*/
+	.chooseUs_sEction_img {
+	    max-width: 400px;
+	    margin: 0 auto 60px;
+	}
+	/*=================================*/
+	/*  Resume Home 
+	/*=================================*/
+	.timeline:before,
+	.list-border-bulet:before,
+	.timeline>li>.list-border-shape{display: none;}
+	.work-in-company,
+	.company-details {
+	    margin-left: -15px;
+	}
+	.company-details {
+	    margin-top: 15px;
+	}
+	.timeline {
+	    margin-top: 60px;
+	}
+	.resume_form_content {
+	    margin-left: 0;
+	}
+	.resume_form_content {
+	    margin-right: 0;
+	}
+
+	/*=================================*/
+	/*  Portfolio single page
+	/*=================================*/
+	.content-Portfolio_2-detail.has-sidebar_portfolio_2 .product-gallery_portfolio_2 #bx-pager a {
+	    max-width: 145px;
+	}
+	.content-Portfolio_2-detail.has-sidebar_portfolio_2 .product-gallery_portfolio_2 #bx-pager {
+	    text-align: center;
+	}
+	.portfolio_single_2_ConTenT h2 {
+	    font-size: 25px;
+	}
+	/*=================================*/
+	/*  Minimal Home page
+	/*=================================*/
+	.mnimal_service_itemS {
+	    padding: 18px 15px 0px 30px;
+	    height: auto;
+	}
+	.portfolio-edu-text .col-md-6:nth-child(1) .single_service_item_same{
+	    border-right: 1px solid transparent; 
+	    border-bottom: 1px solid transparent; 
+	}
+	.portfolio-edu-text .col-md-6:nth-child(2) .single_service_item_same{
+	    border-bottom: 1px solid transparent;  
+	}
+	.portfolio-edu-text .col-md-6:nth-child(3) .single_service_item_same{
+	    border-right: 1px solid transparent;
+	}
+	.single_service_item_same {
+	    max-width: 490px;
+	    margin: auto;
+	}
+	/*=================================*/
+	/*  Start Up Home page
+	/*=================================*/
+	.HELLO_start_up_img {
+	    max-width: 490px;
+	    margin: 0 auto;
+	}
+	.HELLO_start_up_content {
+	    margin-top: 50px;
+	}
+	/*=================================*/
+	/*  Shop page 
+	/*=================================*/
+	.shop_product_single_wrapper {
+	    max-width: 390px;
+	    margin: 0 auto 40px;
+	}
+}/*768px*/
+
+@media screen and (max-width: 767px){
+	/*=================================*/
+	/*  Digital Home
+	/*=================================*/
+	.tab_button_service li {
+	    height: 40px;
+	    width: 164px;
+	    margin-bottom: 15px;
+	    margin-left: 15px !important;
+	}
+	.tab_button_service li p i {
+	    display: none;
+	}
+	.tab_button_service li a {
+    	font-size: 14px;
+	}
+	/*=================================*/
+	/*  Architecture Home
+	/*=================================*/
+	.process_h_architecture li:first-child {
+	    margin-left: 96px;
+	}
+	/*=================================*/
+	/*  Service page
+	/*=================================*/
+	.single_price_item_e {
+	    max-width: 390px;
+	    margin: 0 auto 30px;
+	}
+
+	.footer_widget_single {
+	    max-width: 490px;
+	    margin: 0px auto 40px;
+	}
+	.main_footer_section {
+	    padding: 93px 0 50px;
+	}
+	/*=================================*/
+	/*  Blog page
+	/*=================================*/
+	.blog_standard_grid_single_item{
+		max-width: 490px;
+    	margin: 40px auto 0;
+	}
+	/*=================================*/
+	/*  About page
+	/*=================================*/
+	.single_counter_a_me2 {
+	    margin-top: 52px;
+	    margin-bottom: 15px;
+	}
+}/*767*/
+
+
+
+@media screen and (max-width: 640px){
+	/*=================================*/
+	/*  Onepage Home 
+	/*=================================*/
+	.about_studio_img img {
+	    height: 300px;
+	}
+	footer.onepage_footer {
+	    padding: 40px 0 0;
+	}
+	/*=================================*/
+	/*  Portfolio single page
+	/*=================================*/
+	.content-Portfolio_2-detail.has-sidebar_portfolio_2 .product-gallery_portfolio_2 #bx-pager a {
+	    max-width: 70px;
+	}
+	/*=================================*/
+	/*  Blog single
+	/*=================================*/
+	.blog_single_item {
+	    padding-right: 0;
+	}
+	/*=================================*/
+	/*  Default Home 
+	/*=================================*/
+	.pic_testimonial_h_defaul {
+    	float: none;
+	}
+	.content_testimonial_h_defaul {
+	    padding-left: 0;
+	    text-align: center;
+	}
+	.pic_testimonial_h_defaul img {
+	    width: 248px !important;
+	    margin: 0 auto;
+	}
+	.pic_testimonial_h_defaul {
+	    width: 100%;
+	}
+	.testimonial_home_default {
+	    padding: 99px 0 99px;
+	}
+	/*=================================*/
+	/*  About Page 
+	/*=================================*/
+	.vertical-skills_smith li {
+	    margin-right: 35px;
+	}
+	.vertical-skills_smith li {
+	    width: 40px;
+	}
+	.about_me2_d_Img {
+	    max-width: 300px;
+	    margin: 50px auto 0;
+	}
+	/*=================================*/
+	/*  Shop Page 
+	/*=================================*/
+	.cupon_section {
+	    padding: 50px 0;
+	}
+}/*640px*/
+
+@media screen and (max-width: 480px){
+	/*=================================*/
+	/*  Portfolio page 
+	/*=================================*/
+	.p_masonery_one-menu a {
+	    line-height: 30px;
+	    margin: 0 8px;
+	}
+	/*=================================*/
+	/*  Service page 
+	/*=================================*/
+	.tab-pane img {
+	    width: 100%;
+	    height: auto;
+	}
+	/*=================================*/
+	/*  About Page 
+	/*=================================*/
+	.vertical-skills_smith li {
+	    width: 30px;
+	}
+	.vertical-skills_smith li {
+	    margin-right: 20px;
+	}
+	.vertical-skills_smith li span.title {
+	    left: -44px;
+	    bottom: 27px;
+	}
+	.vertical-skills_smith li span.title {
+	    font-size: 10px;
+	}
+}/*380px*/
+
+@media screen and (max-width: 380px){
+	.subcribe_follow_item_b li a {
+	    padding: 0px 14px;
+	}
+	/*=================================*/
+	/*  About Page 
+	/*=================================*/
+	.vertical-skills_smith li {
+	    width: 20px;
+	}
+}/*380px*/
